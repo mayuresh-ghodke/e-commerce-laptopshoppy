@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+
+
+.area {
+    height: 300px;
+    width: 100%;
+    background-image: url('Images/landing-page.png');
+    color: white;
+    background-repeat: no-repeat;
+}
+
+.menu {
+    height: 80px;
+    width: 100%;
+    float: left;
+    position: sticky;
+    top: 0px;
+    color: white;
+}
+
+		
+        .header-contact-info {
+            color: white;
+            margin-right: 10px;
+        }
+        
+        .carousel-item {
+            height: 450px;
+        }
+        
+        .carousel-caption {
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        
+        .carousel-caption h1 {
+            font-size: 2.5rem;
+            
+        }
+        
+        .carousel-caption h3 {
+            font-size: 1.25rem;
+            line-height: 1.5;
+        }
+        
+        
